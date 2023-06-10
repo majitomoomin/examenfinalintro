@@ -1,0 +1,10 @@
+INSERT INTO `alumno`(`carnet`, `nombre`, `grado`, `telefono`) 
+VALUES ('0907-23-4166','María José Portillo','1ro','41218472');
+INSERT INTO `alumno`(`carnet`, `nombre`, `grado`, `telefono`) 
+VALUES ('0907-23-8945','Juan Paco','2ro','172762');
+INSERT INTO `alumno`(`carnet`, `nombre`, `grado`, `telefono`) 
+VALUES ('0907-24-9876','Lola Santigo','4ro','89765432');
+INSERT INTO `alumno`(`carnet`, `nombre`, `grado`, `telefono`) 
+VALUES ('0907-22-5678','Emiliano Perez','3ro','56430880');
+INSERT INTO `alumno`(`carnet`, `nombre`, `grado`, `telefono`) 
+VALUES ('0907-23-2312','Alan López','8vo','88754321');

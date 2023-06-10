@@ -1,0 +1,25 @@
+body{
+    margin-top: 5%;
+    margin-left: 27%;
+    background-color: cornsilk;
+}
+table {
+    border-collapse:separate;
+    border-spacing:40px;
+    border-style: groove; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+th {
+    border-spacing:40px;
+    border-style: groove; 
+}
+.encabezados{
+    color: crimson;
+}
+
+
+  
+  
+  
+  
+  
